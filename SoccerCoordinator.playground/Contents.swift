@@ -200,15 +200,15 @@ for i in 0..<inexperiencedPlayers.count {
 
 // Print Sharks letters
 for player in sharks {
-    print("Dear \(player[guardians]), your child, \(player[name]), has been placed on the team Sharks. The first practice for the Sharks is March 17, 3pm.")
+    print("Dear \(player[guardians]!), your child, \(player[name]!), has been placed on the team Sharks. The first practice for the Sharks is March 17, 3pm.")
 }
 
 // Print Dragons letters
 for player in dragons {
-  print("Dear \(player[guardians]), your child, \(player[name]), has been placed on the team Dragons. The first practice for the Dragons is March 17, 1pm.")
+  print("Dear \(player[guardians]!), your child, \(player[name]!), has been placed on the team Dragons. The first practice for the Dragons is March 17, 1pm.")
 }
 
 // Print Raptors letters
 for player in raptors {
-  print("Dear \(player[guardians]), your child, \(player[name]), has been placed on the team Raptors. The first practice for the Raptors is March 18, 1pm.")
+  print("Dear \(player[guardians]!), your child, \(player[name]!), has been placed on the team Raptors. The first practice for the Raptors is March 18, 1pm.")
 }
